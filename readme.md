@@ -26,12 +26,12 @@ It's important to get comfortable with the process of starting a new Rails app s
 | route | action / view | bonus? |
 |-------|--------|------|
 | GET /  | Your home page | no. |
-| GET /creature | list all creatures | no. |
-| GET /creature/new | show add creature form | no. |
-| POST /creature | create creature (no view) | no. |
-| GET /creature/1 | list creature (id=1) | no. |
-| GET /creature/2/edit | show edit creature form (id=2) | **bonus** |
-| PUT /creature/3 | update an existing creature (id=3) | **bonus** |
+| GET /creatures | list all creatures | no. |
+| GET /creatures/new | show add creature form | no. |
+| POST /creatures | create creature (no view) | no. |
+| GET /creatures/1 | list creature (id=1) | no. |
+| GET /creatures/2/edit | show edit creature form (id=2) | **bonus** |
+| PUT /creatures/3 | update an existing creature (id=3) | **bonus** |
 
 ##Recommended Process
 
