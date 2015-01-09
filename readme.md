@@ -28,7 +28,7 @@ It's important to get comfortable with the process of starting a new Rails app s
 | GET /  | Your home page | home | index | no. |
 | GET /creatures | list all creatures | creatures | index | no. |
 | GET /creatures/new | show add creature form | creatures | new | no. |
-| POST /creatures | create creature | creatures | (NO VIEW) | no. |
+| POST /creatures | create creature | creatures | create (no view) | no. |
 | GET /creatures/1 | list creature | creatures | show | (id=1) | no. |
 | GET /creatures/2/edit | show edit creature form (id=2) | creatures | edit | **bonus** |
 | PUT /creatures/3 | update an existing creature (id=3) | creatures | update | **bonus** |
